@@ -1,10 +1,10 @@
-Banking System
+**Banking System**
 
 A simple console-based Banking System developed using Python.
 
 This project demonstrates basic banking operations such as account creation, login, deposits, withdrawals, money transfers, transaction history, and PIN management.
 
-Features
+**Features**
 
 - Create a new bank account
 - Automatically generate an 8-digit account number
@@ -19,7 +19,7 @@ Features
 - Logout
 - Input validation for invalid amounts
 
-Technologies Used
+**Technologies Used**
 
 - Python
 - "random" module
@@ -30,14 +30,17 @@ Technologies Used
 - Conditional statements
 - Exception handling
 
-Project Structure
+**Project Structure**
 
 Banking-System-Python/
+
 │
+
 ├── banking_system.py
+
 └── README.md
 
-How to Run
+**How to Run**
 
 1. Install Python
 
@@ -53,22 +56,23 @@ cd Banking-System-Python
 
 python banking_system.py
 
-Main Menu
+**Main Menu**
 
-==============================
+      ====================
        BANKING SYSTEM
-==============================
+      ====================
+
 1. Create Account
 2. Login
 3. Exit
 
 Account Operations
 
-After login, users can access the following options:
+After login, users can access the following options
 
-==============================
+       ==================
        ACCOUNT MENU
-==============================
+       ==================
 1. Check Balance
 2. Deposit
 3. Withdraw
@@ -77,7 +81,7 @@ After login, users can access the following options:
 6. Change PIN
 7. Logout
 
-Testing Performed
+**Testing Performed**
 
 The following features were tested successfully:
 
@@ -91,7 +95,7 @@ The following features were tested successfully:
 - PIN change
 - Logout
 
-Example
+**Example**
 
 A test account was created and used to perform the following transactions:
 
@@ -102,7 +106,7 @@ A test account was created and used to perform the following transactions:
 
 The receiving account successfully received ₹1,000, and the transaction appeared in its transaction history.
 
-Future Enhancements
+**Future Enhancements**
 
 The project can be extended with:
 
@@ -115,7 +119,7 @@ The project can be extended with:
 - Graphical user interface
 - Web-based banking interface
 
-Author
+**Author**
 
 G.S. Kumudha Priya
 
