@@ -12,7 +12,7 @@ This project demonstrates basic banking operations such as account creation, log
 
 
 
-Create a new bank account
+- Create a new bank account
 
 \* Automatically generate an 8-digit account number
 
